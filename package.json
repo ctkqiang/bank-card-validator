@@ -9,6 +9,22 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": ["bank", "card", "luhn", "validator", "debit", "credit"],
-  "author": "",
-  "license": "ISC"
+  "author": "John Melody Me",
+  "url": "https://github.com/johnmelodyme/bank-card-validator/issues",
+  "emai": "johnmelodyme@yandex.com",
+  "license": "MIT",
+   "repository": {
+    "type": "git",
+    "url": "https://github.com/johnmelodyme/bank-card-validator.git"
+  },
+  "funding": [
+    {
+      "type": "individual",
+      "url": "https://johnmelodyme.github.io/donate"
+    },
+    {
+      "type": "patreon",
+      "url": "https://www.patreon.com/johnmelodyme"
+    }
+  ]
 }
