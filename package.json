@@ -1,0 +1,14 @@
+{
+  "name": "bank-card-validator",
+  "version": "1.0.0",
+  "description": "A Simple Bank Card Validator",
+  "main": "library/application.js",
+  "type": "module",
+  "scripts": {
+    "start" : "node ./demo/demo.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": ["bank", "card", "luhn", "validator", "debit", "credit"],
+  "author": "",
+  "license": "ISC"
+}
