@@ -1,5 +1,5 @@
 {
-  "name": "bank-card-validator",
+  "name": "validator-bank-card",
   "version": "1.0.0",
   "description": "A Simple Bank Card Validator",
   "main": "library/application.js",
